@@ -41,3 +41,5 @@ function gauss_jordan(A)
 
     disp(B,'The Inverse of A is ');
 endfunction
+
+gauss_jordan(A);

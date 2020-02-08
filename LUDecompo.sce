@@ -52,4 +52,4 @@ function lu_decomp(A)
     
 
 endfunction
-
+lu_decomp(A);
